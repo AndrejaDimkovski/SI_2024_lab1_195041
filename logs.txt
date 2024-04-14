@@ -1,0 +1,61 @@
+Andreja@Andreja MINGW64 ~/Desktop/SI_2024_lab1_195041 (master)
+$ git log
+commit 7fa1610d1a922c9738d2ce4c0b7d422ee8aa1bea (HEAD -> master, origin/master, origin/bug2, bug2)
+Author: Andreja Dimkovski <andrejadimkovski77@gmail.com>
+Date:   Sun Apr 14 17:49:43 2024 +0200
+
+    Rebase bug2 with master branch
+
+commit 579673a448d9236d69d93310a2506a453af37778
+Author: Andreja Dimkovski <andrejadimkovski77@gmail.com>
+Date:   Sun Apr 14 17:46:05 2024 +0200
+
+    Fix wrong condition in makeBigStringFrom
+
+commit ca15a8b4af07f3c0ea7130f29b1c383643ef89de (origin/bug1, bug1)
+Author: Andreja Dimkovski <andrejadimkovski77@gmail.com>
+Date:   Sun Apr 14 17:47:56 2024 +0200
+
+    Call method filterOddLengthStrings in main class
+
+commit 61716ef8eab1f4012aaba4c28c5aec41f2fae9d7
+Author: Andreja Dimkovski <andrejadimkovski77@gmail.com>
+Date:   Sun Apr 14 17:44:56 2024 +0200
+
+:...skipping...
+commit 7fa1610d1a922c9738d2ce4c0b7d422ee8aa1bea (HEAD -> master, origin/master, origin/bug2, bug2)
+Author: Andreja Dimkovski <andrejadimkovski77@gmail.com>
+Date:   Sun Apr 14 17:49:43 2024 +0200
+
+    Rebase bug2 with master branch
+
+commit 579673a448d9236d69d93310a2506a453af37778
+Author: Andreja Dimkovski <andrejadimkovski77@gmail.com>
+Date:   Sun Apr 14 17:46:05 2024 +0200
+
+    Fix wrong condition in makeBigStringFrom
+
+commit ca15a8b4af07f3c0ea7130f29b1c383643ef89de (origin/bug1, bug1)
+Author: Andreja Dimkovski <andrejadimkovski77@gmail.com>
+Date:   Sun Apr 14 17:47:56 2024 +0200
+
+    Call method filterOddLengthStrings in main class
+
+commit 61716ef8eab1f4012aaba4c28c5aec41f2fae9d7
+Author: Andreja Dimkovski <andrejadimkovski77@gmail.com>
+Date:   Sun Apr 14 17:44:56 2024 +0200
+
+    Fix wrong condition in filterOddLengthStrings
+
+commit 683876afd771635333a61d0cc9c631aaed1a2425
+Author: Andreja Dimkovski <andrejadimkovski77@gmail.com>
+Date:   Sun Apr 14 17:41:31 2024 +0200
+
+    Add starter code
+
+commit 521d92cb86d1f1d521ace3d8426df0b6874e8142
+Author: Andreja Dimkovski <andrejadimkovski77@gmail.com>
+Date:   Sun Apr 14 17:40:34 2024 +0200
+
+    Initial commit
+
